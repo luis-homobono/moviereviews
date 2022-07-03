@@ -1,3 +1,11 @@
+# Compilation files
 /venv/
 */__pycache__/
+*.pyc
+*.pyo
+
+# Hide SQLite file
 db.sqlite3
+
+# Hide media files
+/media/
