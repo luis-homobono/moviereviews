@@ -1,0 +1,1 @@
+alias run="python manage.py runserver"
